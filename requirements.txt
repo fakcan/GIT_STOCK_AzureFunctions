@@ -83,7 +83,7 @@ pytz==2022.6
 pytz-deprecation-shim==0.1.0.post0
 pyzmq==24.0.1
 #QTPyLib==1.5.83
-QTPyLib
+QTPyLib==1.5.82
 questionary==1.10.0
 requests==2.25.1
 scikit-learn==1.0
